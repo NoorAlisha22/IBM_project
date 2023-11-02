@@ -1,11 +1,15 @@
 GitHub reporitory link : https://github.com/NoorAlisha22/IBM_project.git
+
 Phase 1: https://github.com/NoorAlisha22/IBM_project/blob/58029af281f0bc7eee89808b985c1273e7f3c9a9/To%20deploy%20a%20machine%20learning%20model%20with%20IBM%20Cloud%20Watson%20Studio1.docx
 
 Phase2https://github.com/NoorAlisha22/IBM_project/blob/58029af281f0bc7eee89808b985c1273e7f3c9a9/Cloud%20Application%20Development_phase2.pdf
+
 Phase3:
 https://github.com/NoorAlisha22/IBM_project/blob/58029af281f0bc7eee89808b985c1273e7f3c9a9/CLOUD%20APPLICATION%20DEVELOPMENT_PHASE%203.docx
+
 Phase4:
 https://github.com/NoorAlisha22/IBM_project/blob/58029af281f0bc7eee89808b985c1273e7f3c9a9/CLOUD%20APPLICATION%20DEVELOPMENT_PHASE%204-1.docx
+
 Phase 5: https://github.com/NoorAlisha22/IBM_project/blob/58029af281f0bc7eee89808b985c1273e7f3c9a9/CLOUD.APPLICATION.DEVELOPMENT_PHASE5.docx
 Deploying a machine learning model as a web service involves several steps. Here's a high-level overview of the process:
 
